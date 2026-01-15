@@ -49,12 +49,12 @@ Button text and icon update on each click
 
 3. Switch between Light Mode and Dark Mode
 
-#### 🔘 Button Behavior
+## 🔘 Button States
 
-Mode	 Button     Text	    Icon
-Light	 Dark       Mode	     🌙
-Dark	 Light      Mode	     ☀️
-
+| Mode | Button Text | Icon |
+|------|------------|------|
+| Light Mode | Dark Mode | 🌙 |
+| Dark Mode | Light Mode | ☀️ |
 
 #### 📸 Output Preview
 
@@ -66,12 +66,12 @@ Dark	 Light      Mode	     ☀️
 
 #### ✨ Button Features
 
-✅ Smooth transition
-✅ Icon changes (🌙 / ☀️)
-✅ Click animation
-✅ Tailwind styling
-✅ Uses getElementById
-✅ Clean & beginner-friendly
+- ✅ Smooth transition
+- ✅ Icon changes (🌙 / ☀️)
+- ✅ Click animation
+- ✅ Tailwind styling
+- ✅ Uses getElementById
+- ✅ Clean & beginner-friendly
 
 #### 🎨 Button Look
 
@@ -88,7 +88,7 @@ Dark	 Light      Mode	     ☀️
 
 ![img](./image.png)
 
-
+[live@](https://moontosun.netlify.app/)
 
 📄 License
 
