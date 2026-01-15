@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en" class="light">
+<head>
+  <meta charset="UTF-8">
+  <title>Theme Changer</title>
+
+  
+  <script src="https://cdn.tailwindcss.com"></script>
+
+  <script>
+    tailwind.config = {
+      darkMode: 'class'
+    }
+  </script>
+</head>
+
+<body id="page" class="min-h-screen flex items-center justify-center bg-white dark:bg-gray-900 transition-colors duration-300">
+
+  
+  <button
+    id="themeBtn"
+    class="flex items-center gap-2 px-5 py-3 rounded-full bg-gray-200 dark:bg-gray-700 text-gray-800 dark:text-white shadow-md hover:scale-105 active:scale-95 transition-all duration-300"
+  >
+    🌙 Dark Mode
+  </button>
+
+  <script src="theme.js"></script>
+</body>
+</html>
+
