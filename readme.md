@@ -20,10 +20,10 @@ The theme switches instantly with smooth animations and icon changes.
 
 ##### 📂 Project Structure
 theme-changer/
-│
-├── index.html
-├── theme.js
-└── README.md
+
+* index.html
+* theme.js
+* README.md
 
 🚀 How It Works
 
