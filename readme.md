@@ -27,11 +27,11 @@ theme-changer/
 
 🚀 How It Works
 
-A button toggles the dark class on the <html> element
+* A button toggles the dark class on the <html> element
 
-Tailwind’s dark: utilities change styles automatically
+* Tailwind’s dark: utilities change styles automatically
 
-Button text and icon update on each click
+* Button text and icon update on each click
 
 #### 🧩 Technologies Used
 
